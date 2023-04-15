@@ -13,6 +13,7 @@ Here are the shows we've done, in reverse chronological order:
   
 | Date | Recording | Notes | 
 | ---- | ---- | ---- | 
+| April 12, 2023 | [How to get Postgres ready for the next 100 million users]() | [Notes](https://github.com/citusdata/PathToCitusCon/blob/main/2023-04-12.md) | 
 | April 5, 2023 | [Working in the public on open source]() | [Notes](https://github.com/citusdata/PathToCitusCon/blob/main/2023-04-05.md) | 
 
  
