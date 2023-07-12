@@ -4,12 +4,12 @@
 ## Title 
 
 
-Path to Citus Con is a live show on Wednesdays at 10am PT for about an hour.  
+Path To Citus Con is a live show on Wednesdays at 10am PT for about an hour.  
 
 We’re recording them all; here is [the recording from MM DD, 20YY](). 
 
 
-In addition to [Claire Giordano](https://mastodon.social/@@clairegiordano) and Pino de Candia, speakers on MM DD included: 
+In addition to [Claire Giordano](https://mastodon.social/@@clairegiordano) and [Pino de Candia](https://www.linkedin.com/in/pinodecandia/), speakers on MM DD included: 
 [XXX](), and [YY](). 
 
 (Did we miss your name and/or get it wrong? PRs welcome.) 
