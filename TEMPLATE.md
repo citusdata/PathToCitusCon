@@ -1,4 +1,4 @@
-# Path to Citus Con: MM DD, 20YY 
+# Path To Citus Con: MM DD, 20YY 
 
 
 ## Title 
