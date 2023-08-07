@@ -5,7 +5,7 @@
 
 Path To Citus Con is a monthly live show hosted Discord server using the Stage Channel feature; You can join [here](https://aka.ms/open-source-discord) and [subscribe to our events calendar](https://aka.ms/PathToCitusCon-cal). 
 
-Recordings are available on [YouTube](http://aka.ms/PathToCitusCon-playlist) shortly after the live shows along with show notes. 
+Recordings are available on [YouTube](http://aka.ms/PathToCitusCon-playlist) and [your favorite podcast plaform](https://pathtocituscon.transistor.fm/subscribe) shortly after the live shows along with show notes. 
 
 This repository holds the show notes.  
   
